@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libTP2.a CMakeFiles/TP2.dir/EXO1.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libTP2.a
